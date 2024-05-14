@@ -1,3 +1,0 @@
-- I'll Reupload a New Code Soon.
-- Thanks for all the Support Guys'
-- Keep in Touch, [Contact Me](https://t.me/giftedmd)
