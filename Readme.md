@@ -30,7 +30,7 @@
 ## Gifted-Md V.4.0.0 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://web.giftedtechnexus.co.ke/sessions/sessions/pair.html) OR BY [`SCANNING QR CODE1`](https://web.giftedtechnexus.co.ke/sessions/sessions/qr.html) OR BY [`SCANNING QR CODE2`](https://web.giftedtechnexus.co.ke/sessions/sessions/qr2.html)** 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://web.giftedtechnexus.co.ke/sessions/pair) OR BY [`SCANNING QR CODE1`](https://web.giftedtechnexus.co.ke/sessions/qr) OR BY [`SCANNING QR CODE2`](https://web.giftedtechnexus.co.ke/sessions/qr2)** 
 3. **Deploy on [`HEROKU`](https://web.giftedtechnexus.co.ke/deploy/platforms/heroku.html)**
 8. **You can visit Bot Web [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke) for more**
 9. **All Tutorials Available [`HERE`](https://youtube.com/@giftedtechnexus)**
