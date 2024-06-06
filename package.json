@@ -1,22 +1,22 @@
 {
-    "name": "Gifted-Md",
+    "name": "ZLouner-Md",
   "version": "4.0.0",
   "description": "",
-  "main": "app/gifted.js",
+  "main": "app/ZLouner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app/gifted.js",
+    "start": "node app/ZLouner.js",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Gifted-Md",
+    "ZLouner-Md",
     "whatsapp",
     "whatsapp-bot",
     "franceking1"
   ],
-  "author": "Gifted Tech",
+  "author": "ZLouner Tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
